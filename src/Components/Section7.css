@@ -1,0 +1,27 @@
+@import url("https://cdn.syncfusion.com/ej2/material.css");
+.vertical-menu {
+  width: 100px;
+}
+
+.vertical-menu a {
+  background-color: #eee;
+  color: black;
+  display: block;
+  padding: 11px;
+  text-decoration: none;
+}
+
+.vertical-menu a:hover {
+  background-color: #ccc;
+}
+
+.vertical-menu {
+  width: 300px;
+  height: 100px;
+  overflow-y: auto;
+}
+.datecontainer {
+  height: 44px;
+  width: 400px;
+  border: 2px solid rgb(189, 185, 185);
+}

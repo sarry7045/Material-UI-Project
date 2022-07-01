@@ -1,0 +1,7 @@
+body {
+  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+    url(https://images.pexels.com/photos/87833/pexels-photo-87833.jpeg?cs=srgb&dl=pexels-aidan-carney-87833.jpg&fm=jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
